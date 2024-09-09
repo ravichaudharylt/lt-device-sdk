@@ -26,5 +26,5 @@ yarn start
 Note : By default the server will run on port 3000.
 
 ```
-dev.lambdatest.com:3000
+http://dev.lambdatestinternal.com:3000/
 ```
