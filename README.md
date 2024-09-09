@@ -2,7 +2,7 @@
 
 ## Setup Requirements
 
-Step 1 : Create .env file using .env.sample and add Access Key and your username from LT dashboard.
+Step 1 : Create .env file using .env.sample and add Access Key and your username from LT dashboard. <br />
 Step 2 : Add below entry in `/etc/hosts` file
 
 ```cmd
